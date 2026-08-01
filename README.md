@@ -1,2 +1,4 @@
-# javascript-currency-33
+# Javascript Currency 33
+
 A basic exchange converter in JavaScript.
+
